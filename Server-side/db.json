@@ -1,0 +1,135 @@
+{
+    "products": [
+        {
+            "title": "HARIO CAFE PRESS SLIM GREY 240ML",
+            "namaProduct": "UbruKopi",
+            "harga": 480000,
+            "description": "French Press dari Hario berbahan dasar kaca berwarna abu-abu di desain dengan bentuk yang ramping dan menarik. sangat cocok untuk membuat 1-2 gelas kopi. French Press merupakan salah satu teknik seduh manual yang simple, cukup untuk menyeduh air dan steep selama empat menit sebelum kamu menekan knob agar ampas bisa turun ke dasar.",
+            "rating": 5,
+            "quantity": 1,
+            "imagesUrl": "https://ubrukopi.com/wp-content/uploads/2020/10/HARIO-CAFE-PRESS-SLIM-GREY-240ML-1.jpg",
+            "brand": "Hario",
+            "spesifikasi": "Spesifikasi: Dimensi : 11x16,5x8cm Berat :350gr Kapasitas : (240ml) Warna : Abu-abu / Grey Brand : Hario"
+        },
+        {
+            "title": "ABID CLEVER DRIPPER 102",
+            "namaProduct": "UbruKopi",
+            "harga": 480000,
+            "description": "Abid Clever Dripper CCD#2 Type C705555 /Small 102 1-2 cup. Paket sudah berikut 100 lembar filter 102 putih",
+            "rating": 5,
+            "quantity": 5,
+            "imagesUrl": "https://excelso-coffee.com/wp-content/uploads/2021/10/ABID-CLEVER-DRIPPER-102-A.jpg",
+            "brand": "Hario",
+            "spesifikasi": "Spesifikasi: Tersedia Pilihan Warna Coklat Bening, Putih, Hitam, Merah, dan Hitam"
+        },
+        {
+            "title": "ALMOND BISCUIT",
+            "namaProduct": "Serena",
+            "harga": 50000,
+            "description": "Barang dijamin READY STOCK dan dijamin FRESH Pengiriman wajib menggunakan layanan EKSPEDISI NEXT DAY untuk menjamin kesegaran produk.",
+            "rating": 4,
+            "quantity": 7,
+            "imagesUrl": "https://static.bmdstatic.com/gk/production/9e4120b878dc54518d436c5eca61b5f2.jpg",
+            "brand": "Biscuit",
+            "spesifikasi": "Spesifikasi: Berat Bersih 1 Pack 120.4g"
+        },
+        {
+            "title": "Aceh Gayo Coffee Beans...",
+            "namaProduct": "Kopi Arabika",
+            "harga": 114000,
+            "description": "Aceh Gayo coffee is often used in most coffee shops commonly for café latte. It has light earthy notes with a mild body and bittersweet spicy chocolate taste. Soft in acidity, this coffee reveals some elegant caramel-fruity flavours, marrying a perfect combination of spicy and sweet. Its unique taste will make you crave for more.",
+            "rating": 5,
+            "quantity": 6,
+            "imagesUrl": "https://www.sentrakopi.com/wp-content/uploads/2020/08/aceh-gayo-200-gram-sentrakopi.jpg",
+            "brand": "Aceh Gayo",
+            "spesifikasi": "Spesifikasi: 100% Aceh Gayo Arabica Coffee Beans Net Weight: 200 g (7.1 oz)"
+        },
+        {
+            "title": "Blackpearl Coffee Beans...",
+            "namaProduct": "Cold Brew Blend",
+            "harga": 320000,
+            "description": "Sumatra Origin Details : Region : Humbang Has Dolok Sanggul Height :1300 - 1400 mdpl Processing : Semi wash Variety : Sigarar Utang & Ateng",
+            "rating": 3,
+            "quantity": 10,
+            "imagesUrl": "https://cdn.shopify.com/s/files/1/0278/5830/5164/products/bJu7aKdPFL.jpg?v=1621008408",
+            "brand": "Black Pearl",
+            "spesifikasi": "Spesifikasi: Dark Chocolate, Caramel, & Hazelnut Finish Medium Acidity Medium to High Body"
+        },
+        {
+            "title": "Espresso Blend 1.0 - 200gr",
+            "namaProduct": "Espresso ",
+            "harga": 238000,
+            "description": "Untuk menjaga kualitas biji kopi, Reirom Coffee Roastery menerapkan sistem Roast by Order (biji kopi dipanggang saat pemesanan) dan dikirimkan satu hari setelah biji kopi di panggang.",
+            "rating": 4,
+            "quantity": 2,
+            "imagesUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//102/MTA-90961463/no-brand_no-brand_full01.jpg",
+            "brand": "Robusta",
+            "spesifikasi": "Spesifikasi: Reirom Coffee Roaster | Coffee Beans House Blend Arabika (Espresso Blend 1.0)"
+        },
+        {
+            "title": "HEthiopia Guji Washed",
+            "namaProduct": "Guji",
+            "harga": 350000,
+            "description": "Origin ETHIOPIA Region GUJI - HAMBELA Altitude 1950 - 2250 MASL Variety MIXED HEIRLOOM",
+            "rating": 5,
+            "quantity": 8,
+            "imagesUrl": "https://cdn.shopify.com/s/files/1/0015/8164/5885/products/ethiopia_1100x.jpg?v=1675708165",
+            "brand": "Ethiopia",
+            "spesifikasi": "Spesifikasi: Source 2ND MILE COFFEE Process WASHED ORGANIC"
+        }
+    ],
+    "images": [
+        {
+            "productId": 1,
+            "imgUrl": "https://ubrukopi.com/wp-content/uploads/2020/10/HARIO-CAFE-PRESS-SLIM-GREY-240ML-3.jpg"
+        },
+        {
+            "productId": 1,
+            "imgUrl": "https://ubrukopi.com/wp-content/uploads/2020/10/HARIO-CAFE-PRESS-SLIM-RED-240ML-2.jpg"
+        },
+        {
+            "productId": 1,
+            "imgUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-3169230/hario_hario-slim-cafe-french-press---grey--240-ml-_full05.jpg"
+        },
+        {
+            "productId": 2,
+            "imgUrl": "https://images.tokopedia.net/img/cache/700/product-1/2020/2/11/88947262/88947262_27eb3baa-64d3-458f-9bd1-8732c299e5f5_1049_1049.webp"
+        },
+        {
+            "productId": 2,
+            "imgUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-24139231/no-brand_no-brand_full01.jpg"
+        },
+        {
+            "productId": 3,
+            "imgUrl": "https://cdn.shopify.com/s/files/1/0726/5904/2624/products/almond-cookies1.webp?v=1678102576"
+        },
+        {
+            "productId": 3,
+            "imgUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-3282036/mybizcuit_kukis-dengan-kacang-almond--320gr-_full02.jpg"
+        },
+        {
+            "productId": 4,
+            "imgUrl": "https://www.bitkaorigin.com/assets/front/images/products/bean-bag-arabica-aceh-gayo-1.webp"
+        },
+        {
+            "productId": 4,
+            "imgUrl": "https://id-live-01.slatic.net/p/ec456ba20c9ef04d3e92de3581e5db4c.jpg"
+        },
+        {
+            "productId": 4,
+            "imgUrl": "https://cdn.istyle.im/images/product/web/57/33/35/00/0/000000353357_01_800.jpg.webp"
+        },
+        {
+            "productId": 5,
+            "imgUrl": "https://www.tradingpostcoffee.co.uk/cdn/shop/files/BLACKPEARL250COFFEE_79a8a037-1100-4632-9b9b-54b14fe6db89_1024x.jpg?v=1683812426"
+        },
+        {
+            "productId": 6,
+            "imgUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/19/61131807-01cc-4d79-bc09-f121a9966e00.jpg"
+        },
+        {
+            "productId": 7,
+            "imgUrl": "https://cdn.shopify.com/s/files/1/2112/2311/products/Regent-Coffee-Whole-Beans_ecad8934-4676-4deb-a8b4-bab418dd77e7.jpg?v=1667186715"
+        }
+    ]
+}
